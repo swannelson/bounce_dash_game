@@ -36648,7 +36648,7 @@ case 2:q.aG(new p.a21(q,b))
 return A.U(null,r)}})
 return A.V($async$p6,r)},
 R(a){var s=null,r=A.a([B.bA,B.bC],t.W),q=A.h7(20),p=t.E
-return A.a7A(A.fj(s,A.Ow(A.OU(A.a([B.Lt,B.uy,A.fj(s,A.iJ(A.a([B.A4,B.d5,A.ow(B.f.k(this.d),B.eq)],p),B.aP,B.bN),s,new A.dc(B.r,s,s,q,s,s,B.a3),s,s,B.fa,s),B.uz,A.a11(B.A5,B.Lu,new A.a23(a),A.At(s,s,B.e0,s,s,s,s,s,s,s,s,s,B.ji,s,s,s,s,B.Kl,s))],p),B.ds,B.fN,B.aQ),s,s),s,new A.dc(s,s,s,s,s,new A.cT(B.aX,B.aJ,B.I,r,s,s),B.a3),s,s,s,s))}}
+return A.a7A(A.fj(s,A.Ow(A.OU(A.a([B.Lv,B.uy,A.fj(s,A.iJ(A.a([B.A4,B.d5,A.ow(B.f.k(this.d),B.eq)],p),B.aP,B.bN),s,new A.dc(B.r,s,s,q,s,s,B.a3),s,s,B.fa,s),B.uz,A.a11(B.A5,B.Lt,new A.a23(a),A.At(s,s,B.e0,s,s,s,s,s,s,s,s,s,B.ji,s,s,s,s,B.Kl,s))],p),B.ds,B.fN,B.aQ),s,s),s,new A.dc(s,s,s,s,s,new A.cT(B.aX,B.aJ,B.I,r,s,s),B.a3),s,s,s,s))}}
 A.a21.prototype={
 $0(){var s=A.pu(J.b8(this.b.a,"highScore"))
 if(s==null)s=0
@@ -36664,7 +36664,7 @@ A.kb.prototype={}
 A.oq.prototype={
 R(a){var s=null,r=A.a([B.bA,B.bC],t.W),q=!0
 q=q?B.vl:s
-return A.a7A(A.fj(s,A.OU(A.a([B.uz,B.Lv,B.ux,A.aaw(new A.BI(new A.YD(new A.YS(this),5,!0,!0,!0,s),B.jg,B.bv,!1,s,s,q,!1,s,5,B.bE,B.G8,s,B.b1,s)),new A.ed(B.jh,A.a11(B.A6,B.Ls,new A.YT(a),A.At(s,s,B.fQ,s,s,s,s,s,s,s,s,s,B.ji,s,s,s,s,B.Kn,s)),s)],t.E),B.ds,B.aP,B.aQ),s,new A.dc(s,s,s,s,s,new A.cT(B.aX,B.aJ,B.I,r,s,s),B.a3),s,s,s,s))},
+return A.a7A(A.fj(s,A.OU(A.a([B.uz,B.Lu,B.ux,A.aaw(new A.BI(new A.YD(new A.YS(this),5,!0,!0,!0,s),B.jg,B.bv,!1,s,s,q,!1,s,5,B.bE,B.G8,s,B.b1,s)),new A.ed(B.jh,A.a11(B.A6,B.Ls,new A.YT(a),A.At(s,s,B.fQ,s,s,s,s,s,s,s,s,s,B.ji,s,s,s,s,B.Kn,s)),s)],t.E),B.ds,B.aP,B.aQ),s,new A.dc(s,s,s,s,s,new A.cT(B.aX,B.aJ,B.I,r,s,s),B.a3),s,s,s,s))},
 PV(a,b){var s=null,r=A.h7(16),q=A.h7(16),p=A.h7(16),o=b.c,n=o.a
 n=A.a([o,A.ab(B.c.aV(178.5),n>>>16&255,n>>>8&255,n&255)],t.W)
 o=t.E
@@ -65591,13 +65591,13 @@ B.IR=new A.p(!0,B.i,null,null,null,null,32,B.af,null,null,null,null,null,null,nu
 B.Lq=new A.fQ("Game Over",null,B.IR,null,null)
 B.Lr=new A.fQ("Menu",null,null,null,null)
 B.Ls=new A.fQ("Back to Menu",null,null,null,null)
+B.Lt=new A.fQ("Play",null,null,null,null)
 B.H1=new A.iL(B.i,B.h,20)
 B.jB=A.a(s([B.H1]),t.j8)
-B.K_=new A.p(!0,B.i,null,null,null,null,48,B.af,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.jB,null,null,null)
-B.Lt=new A.fQ("Bounce Dash",null,B.K_,null,null)
-B.Lu=new A.fQ("Play",null,null,null,null)
-B.K0=new A.p(!0,B.i,null,null,null,null,36,B.af,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.jB,null,null,null)
-B.Lv=new A.fQ("Select Stage",null,B.K0,null,null)
+B.K_=new A.p(!0,B.i,null,null,null,null,36,B.af,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.jB,null,null,null)
+B.Lu=new A.fQ("Select Stage",null,B.K_,null,null)
+B.K0=new A.p(!0,B.i,null,null,null,null,48,B.af,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.jB,null,null,null)
+B.Lv=new A.fQ("Remy Is Gay",null,B.K0,null,null)
 B.NQ=new A.a_7(0,"system")
 B.Lw=new A.uS(null)
 B.I=new A.Ff(0,"clamp")

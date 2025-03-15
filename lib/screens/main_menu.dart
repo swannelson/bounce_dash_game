@@ -44,7 +44,7 @@ class _MainMenuState extends State<MainMenu> {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               const Text(
-                'Bounce Dash',
+                'Remy Is Gay',
                 style: TextStyle(
                   fontSize: 48,
                   fontWeight: FontWeight.bold,
